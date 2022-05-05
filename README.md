@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-<img src="https://web.facebook.com/photo/?fbid=1227389657790969&set=a.294876664375611"><br>
+<img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg"><br>
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white">
