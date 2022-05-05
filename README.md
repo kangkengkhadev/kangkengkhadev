@@ -3,9 +3,9 @@
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;">
 <h2 align="center">Tanakrit Saiphan</h2>
+<br>
 </p>
-<br>
-<br>
+
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
