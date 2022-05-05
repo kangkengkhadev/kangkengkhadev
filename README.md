@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;"><br>
+<img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;margin-top:0px;"><br>
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white">
