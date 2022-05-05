@@ -1,7 +1,4 @@
 <h1 align="center">Hi everyone welcome to my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-	 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+developer;Data+scientist&center=true&width=500&height=50"></a>
-</p>
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;"><br><br>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" src="https://github.com/alexandresanlim/Badges4-README.md-Profile">
