@@ -1,5 +1,6 @@
 <h1 align="center">Hi everyone welcome to my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+now i am
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+developer;Data+scientist&center=true&width=500&height=50"></a>
 </p>
 
