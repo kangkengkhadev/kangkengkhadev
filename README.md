@@ -2,7 +2,7 @@
 <br>
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;"><br><br>
-<h1>Tanakrit Saiphan</h1>
+<h2 style=""text-align:center;>Tanakrit Saiphan</h2>
 </p>
 
 
