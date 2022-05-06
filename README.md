@@ -3,7 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkengkhadev&label=Profile%20views&color=0e75b6&style=flat" alt="kangkengkhadev.github.io" /> </p>
 
-- 👨‍💻 You can see my work here [kangkengkhadev.github.io](kangkengkhadev.github.io)
+- 👨‍💻 You can see my work here <a href="kangkengkhadev.github.io">kangkengkhadev</a>
 
 - 📫 How to reach me **kangkengkhadev@gmail.com**
 
