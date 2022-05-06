@@ -1,12 +1,13 @@
 <h1 align="left">Hi everyone 👋, I'm Tanakrit saiphan</h1>
 <h3 align="left">I am a student who loves building technology and bring it to business</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkengkhadev&label=Profile%20views&color=0e75b6&style=flat" alt="kangkengkhadev" /> </p>
+
 - 👨‍💻 You can see my work here [kangkengkhadev.github.io](kangkengkhadev.github.io)
 
-- 💬 Ask me about **WEB AI and IOT**
+- 💬 Ask me about **WEB and AI**
 
 - 📫 How to reach me **kangkengkhadev@gmail.com**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://web.facebook.com/profile.php?id=100015598387666" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100015598387666" height="30" width="40" /></a>
