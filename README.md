@@ -1,7 +1,7 @@
 <h1 align="left">Hi everyone 👋, I'm Tanakrit saiphan</h1>
 <h3 align="left">I am a student who loves building technology and bring it to business</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkengkhadev&label=Profile%20views&color=0e75b6&style=flat" alt="kangkengkhadev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangkengkhadev&label=Profile%20views&color=0e75b6&style=flat" alt="kangkengkhadev.github.io" /> </p>
 
 - 👨‍💻 You can see my work here [kangkengkhadev.github.io](kangkengkhadev.github.io)
 
