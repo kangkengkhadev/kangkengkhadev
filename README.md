@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tanakrit saiphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanakrit saiphan" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100015598387666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100015598387666" height="30" width="40" /></a>
 <a href="https://instagram.com/mukrob.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukrob.ipynb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kangkengkhadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kangkengkhadev" height="30" width="40" /></a>
+<a href="https://medium.com/@kangkengkhadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kangkengkhadev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucqotlmfw28xtbrs5wyt-tfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqotlmfw28xtbrs5wyt-tfw" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
