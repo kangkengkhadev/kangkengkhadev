@@ -4,9 +4,9 @@
 <img src="https://cdn.discordapp.com/attachments/527800138710777856/971902182922276864/272309375_1227389654457636_1665735485553935784_n.jpg" style="width:370px;height:400px;">
 
 </p>
-<h2 align="center" style="padding-bottom:50px;">Tanakrit Saiphan</h2>
-
-<!-- ## :sassy_man:  About me
+<!-- <h2 align="center" style="padding-bottom:50px;">Tanakrit Saiphan</h2>
+ -->
+## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
@@ -15,7 +15,7 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
-<br> -->
+<br>
 
 
 
